@@ -1,0 +1,23 @@
+body{
+     background-color:#00CED1;
+ }
+
+ h1{
+   color: rgb(117, 17, 124);
+   text-align:center;
+ }
+
+ h2{
+  color: rgb(32, 18, 192);
+  text-align: center;
+}
+
+strong{
+
+color:  black;
+}
+
+a{
+  color:crimson;
+}
+
